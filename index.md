@@ -16,9 +16,10 @@ www.linkedin.com/in/iskailer/
 www.snapchat.com/add/iskailer
 
 ```
+
 <section class="social-links inset">
   <ul class="inline">
-    <li>
+    <li style:"float: left;">
       <a class="social-link" title="Visit me on Facebook" href="https://facebook.com/iskailer" target="_blank" rel="noopener noreferrer">
       <span class="SVGInline">
         <svg class="SVGInline-svg" xmlns="http://www.w3.org/2000/svg" style="height: 60px;" viewBox="0 0 1000 1000">
@@ -28,7 +29,7 @@ www.snapchat.com/add/iskailer
        </span>
       </a>
     </li>
-    <li>
+    <li style:"float: left;">
       <a class="social-link" title="Visit me on Twitter" href="https://twitter.com/iskailer" target="_blank" rel="noopener noreferrer">
         <span class="SVGInline">
           <svg class="SVGInline-svg" xmlns="http://www.w3.org/2000/svg" style="height: 60px;" style="height: 60px;" viewBox="0 0 1000 1000">
@@ -38,7 +39,7 @@ www.snapchat.com/add/iskailer
         </span>
       </a>
     </li>
-    <li>
+    <li style:"float: left;">
       <a class="social-link" title="Visit me on Spotify" href="https://open.spotify.com/user/iskailer" target="_blank" rel="noopener noreferrer">
         <span class="SVGInline">
           <svg class="SVGInline-svg" xmlns="http://www.w3.org/2000/svg" style="height: 60px;" viewBox="0 0 1000 1000">
@@ -48,7 +49,7 @@ www.snapchat.com/add/iskailer
         </span>
       </a>
     </li>
-    <li>
+    <li style:"float: left;">
       <a class="social-link" title="Visit me on GitHub" href="https://github.com/iskailer" target="_blank" rel="noopener noreferrer">
         <span class="SVGInline">
           <svg class="SVGInline-svg" xmlns="http://www.w3.org/2000/svg" style="height: 60px;" viewBox="0 0 1000 1000">
@@ -58,7 +59,7 @@ www.snapchat.com/add/iskailer
         </span>
       </a>
     </li>
-    <li>
+    <li style:"float: left;">
       <a class="social-link" title="Visit me on LinkedIn" href="https://www.linkedin.com/in/iskailer" target="_blank" rel="noopener noreferrer">
         <span class="SVGInline">
           <svg class="SVGInline-svg" xmlns="http://www.w3.org/2000/svg" style="height: 60px;" viewBox="0 0 1000 1000">
@@ -68,7 +69,7 @@ www.snapchat.com/add/iskailer
         </span>
       </a>
     </li>
-    <li>
+    <li style:"float: left;">
       <a class="social-link" title="Visit me on Instagram" href="https://instagram.com/iskailer" target="_blank" rel="noopener noreferrer">
         <span class="SVGInline">
           <svg class="SVGInline-svg" viewBox="-56 -369 1000 1001" xmlns="http://www.w3.org/2000/svg" style="height: 60px;">
@@ -78,7 +79,7 @@ www.snapchat.com/add/iskailer
         </span>
       </a>
     </li>
-    <li>
+    <li style:"float: left;">
       <a class="social-link" title="Visit me on Snapchat" href="https://snapchat.com/add/iskailer" target="_blank" rel="noopener noreferrer">
         <span class="SVGInline">
           <svg class="SVGInline-svg" viewBox="-171 -32 1000 1000" xmlns="http://www.w3.org/2000/svg" style="height: 60px;">
