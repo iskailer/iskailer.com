@@ -1,22 +1,26 @@
-# WELCOME
+# ABOUT ISKAILER
 
-I am a project manager, Co-Founder at GravitWave and Tester, currently living in Chapecó, Brasil. My interests range from technology to travel. I am also interested in entrepreneurship, web development, and innovation.
+With more than 10 years of experience in the technology area, I'm a Software Architect, Developer, Software Analyst and Innovation Consultant, currently living in Chapecó, Brasil. I worked in several points of the software production process, mainly, planning and putting into practice what is most contemporary and well validated in the scope of innovation management and software development.
+I demonstrate below succinctly respect for analysis and development experience and some measures of consultative innovation of software development.
 
-You can use the links bellow to visit my personal social networks. If you’d like to get in touch, feel free to say hello through any of the social links below.
+You can use the links bellow to visit my social networks. If you’d like to keep in touch, feel free to say hello through any of the social links below.
 
 ## SOCIAL NETWORK
 
 ```markdown
 
-instagram.com/iskailer/ or @iskailer
-facebook.com/iskailer
-twitter.com/iskailer
+@iskailer
 www.linkedin.com/in/iskailer/
-www.snapchat.com/add/iskailer
 
 ```
 
+## FONE NUMBER
 
+```markdown
+
++55 49 98863-2405
+
+```
 
 
 
