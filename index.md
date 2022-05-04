@@ -24,8 +24,6 @@ www.linkedin.com/in/iskailer/
 
 ## BRAG DOCUMENT DEVELOPMENT (PT-Br)
 
-```markdown
-
 | Descrição                                                                                                                                | Término |
 |------------------------------------------------------------------------------------------------------------------------------------------|---------|
 | Refatoração completa e implementação do BD SQLite em software de backup automatico em servidores (VB.NET, C#)                            | 05/2022 |
@@ -35,11 +33,8 @@ www.linkedin.com/in/iskailer/
 | Implementação dos registros de Bloco K do SPED em sistema pré-existente                                                                  |         |
 |                                                                                                                                          |         |
 
-```
 
 ## BRAG DOCUMENT CONSULTANCY/TEACHING (PT-Br)
-
-```markdown
 
 | Descrição                                                                 | Término |
 |---------------------------------------------------------------------------|---------|
@@ -49,4 +44,3 @@ www.linkedin.com/in/iskailer/
 | Produção de Laudo de pericia forense digital para defesa em processo      | 10/2021 |
 |                                                                           |         |
 
-```
