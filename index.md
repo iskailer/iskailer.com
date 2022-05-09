@@ -12,12 +12,13 @@ You can use the links bellow to visit my social networks. If you’d like to kee
 
 ## SOCIAL NETWORK
 
-@iskailer
-[LinkedIn](www.linkedin.com/in/iskailer/)
+[@iskailer]
+
+[LinkedIn](https://www.linkedin.com/in/iskailer/)
 
 ## FONE NUMBER & WHATSAPP
 
-[+55 49 98863-2405](wa.me/+5549988632405)
+[+55 49 98863-2405](https://wa.me/+5549988632405)
 
 ## BRAG DOCUMENT DEVELOPMENT (PT-Br)
 
