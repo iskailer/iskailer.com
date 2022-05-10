@@ -26,7 +26,9 @@ I briefly demonstrate my analysis and development experience and some measures o
 | Implementação de EndPoint para comunicação entre ERP Web e PAF-ECF (Tempo de comunicação reduzido de 18s para 5s) (VB.NET, Rest, Delphi) | 03/2022 |
 | Desenvolvimento de aplicativo de acompanhamento de rotas e pedidos de entrega (React Native)                                             | 02/2022 |
 | Implementação da emissão, cancelamento e contingência de NFCe para SC em aplicativo PAF-ECF (Delphi)                                     | 02/2022 |
-| Implementação dos registros de Bloco K do SPED em sistema pré-existente (Delphi)                                                         |         |
+| Implementação dos registros de Bloco K do SPED em sistema pré-existente (Delphi)                                                         |    2021 |
+| Módulo de controle de Granjas de Matrizes (Produtividade, mortalidade, doenças, reprodução, registros e relatórios)(Ruby on Rails)       |    2019 |
+| Dashboard de acompanhamento de sensores em tempo real (Ruby on Rails, Echarts)                                                           |    2018 |
 |                                                                                                                                          |         |
 
 
@@ -34,7 +36,7 @@ I briefly demonstrate my analysis and development experience and some measures o
 
 | Descrição                                                                           | Término |
 |-------------------------------------------------------------------------------------|---------|
-| Mentoria Pré-Incubadora Start SENAI Chapecó!                                        | 05/2022 |
+| Mentoria Pré-Incubadora Start SENAI Chapecó                                         | 05/2022 |
 | Assistência Técnica em pericia de forense digital para produção de provas           | 04/2022 |
 | Consultoria em processo de desenvolvimento e inovação empresa Hardware              | 03/2022 |
 | Professor de Arquitetura e Design de software na Faculdade SENAI Chapecó            | 12/2021 |
@@ -42,10 +44,11 @@ I briefly demonstrate my analysis and development experience and some measures o
 | Consultoria para implementação de estratégia de inovação                            | 08/2021 |
 | Liderança do processo de Homologação de PAF-ECF em Santa Catarina                   | 10/2019 |
 | Liderança do processo de Homologação de PAF-ECF em Santa Catarina                   | 02/2019 |
-| Consultoria de implementação de controle de versionamento (GIT)                     |         |
-| Consultoria para definição de processos de controle de desenvolvimento              |         |
-| Organização de Mentoria Start Weekend Agro Chapecó-SC                               |         |
+| Consultoria para definição de processos de controle de desenvolvimento              |    2020 |
+| Organização de Mentoria Start Weekend Agro Chapecó-SC                               |    2018 |
 | Mentoria Start Weekend Erechim-RS                                                   |    2018 |
+| Consultoria de implementação de controle de versionamento (GIT)                     |    2017 |
+| Aula de informática para idosos na UNOESC                                           |    2017 |
 | Documentação da proposta Ganhadora do Sinapse da Inovação 2016 (R$ 100.000,00)      |    2016 |
 | Co-Autor da patente de software Coopig                                              |    2015 |
 | Co-Fundador da Startup Coopig/Gravitwave                                            |    2014 |
