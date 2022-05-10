@@ -20,21 +20,22 @@ I briefly demonstrate my analysis and development experience and some measures o
 
 ## BRAG DOCUMENT DEVELOPMENT (PT-Br)
 
-| Descrição                                                                                                                                | Término |
-|------------------------------------------------------------------------------------------------------------------------------------------|---------|
-| Refatoração completa e implementação do BD SQLite em software de backup automatico em servidores (VB.NET, C#)                            | 05/2022 |
-| Implementação de EndPoint para comunicação entre ERP Web e PAF-ECF (Tempo de comunicação reduzido de 18s para 5s) (VB.NET, Rest, Delphi) | 03/2022 |
-| Desenvolvimento de aplicativo de acompanhamento de rotas e pedidos de entrega (React Native)                                             | 02/2022 |
-| Implementação da emissão, cancelamento e contingência de NFCe para SC em aplicativo PAF-ECF (Delphi)                                     | 02/2022 |
-| Implementação dos registros de Bloco K do SPED em sistema pré-existente (Delphi)                                                         |    2021 |
-| Módulo de controle de Granjas de Matrizes (Produtividade, mortalidade, doenças, reprodução, registros e relatórios)(Ruby on Rails)       |    2019 |
-| Dashboard de acompanhamento de sensores em tempo real (Ruby on Rails, Echarts)                                                           |    2018 |
-|                                                                                                                                          |         |
+| Descrição                                                                                                                                |  Período  |
+|------------------------------------------------------------------------------------------------------------------------------------------|-----------|
+| Refatoração completa e implementação do BD SQLite em software de backup automatico em servidores (VB.NET, C#)                            |  05/2022  |
+| Implementação de EndPoint para comunicação entre ERP Web e PAF-ECF (Tempo de comunicação reduzido de 18s para 5s) (VB.NET, Rest, Delphi) |  03/2022  |
+| Desenvolvimento de aplicativo de acompanhamento de rotas e pedidos de entrega (React Native)                                             |  02/2022  |
+| Implementação da emissão, cancelamento e contingência de NFCe para SC em aplicativo PAF-ECF (Delphi)                                     |  02/2022  |
+| Implementação dos registros de Bloco K do SPED em sistema pré-existente (Delphi)                                                         |     2021  |
+| Módulo de controle de Granjas de Matrizes (Produtividade, mortalidade, doenças, reprodução, registros e relatórios)(Ruby on Rails)       |     2019  |
+| Dashboard de acompanhamento de sensores em tempo real (Ruby on Rails, Echarts)                                                           |     2018  |
+| Desenvolvedor nos software Coopig e Cocoriko                                                                                             | 2015/2020 |
+|||
 
 
 ## BRAG DOCUMENT CONSULTANCY/TEACHING (PT-Br)
 
-| Descrição                                                                           | Término |
+| Descrição                                                                           | Período |
 |-------------------------------------------------------------------------------------|---------|
 | Mentoria Pré-Incubadora Start SENAI Chapecó                                         | 05/2022 |
 | Assistência Técnica em pericia de forense digital para produção de provas           | 04/2022 |
@@ -45,7 +46,7 @@ I briefly demonstrate my analysis and development experience and some measures o
 | Liderança do processo de Homologação de PAF-ECF em Santa Catarina                   | 10/2019 |
 | Liderança do processo de Homologação de PAF-ECF em Santa Catarina                   | 02/2019 |
 | Consultoria para definição de processos de controle de desenvolvimento              |    2020 |
-| Organização de Mentoria Start Weekend Agro Chapecó-SC                               |    2018 |
+| Organização e Mentoria no Start Weekend Agro Chapecó-SC                             |    2018 |
 | Mentoria Start Weekend Erechim-RS                                                   |    2018 |
 | Consultoria de implementação de controle de versionamento (GIT)                     |    2017 |
 | Aula de informática para idosos na UNOESC                                           |    2017 |
