@@ -37,6 +37,10 @@ I briefly demonstrate my analysis and development experience and some measures o
 
 | Descrição                                                                           | Período |
 |-------------------------------------------------------------------------------------|---------|
+| Professor de Introdução ao Empreendedorismo na Universidade SENAI Chapecó           | 02/2023 |
+| Tribe Leader Compass.Uol -> Livelo(Área de PJ, Campanha Empresarial) -> 2 squads    | 12/2022 |
+| Tribe Leader Compass.Uol -> Livelo(Área de PJ) -> 1 squad                           | 08/2022 |
+| Professor de Desenvolvimento de Sistemas Web na Universidade SENAI Chapecó          | 06/2022 |
 | Mentoria Pré-Incubadora Start SENAI Chapecó                                         | 05/2022 |
 | Assistência Técnica em pericia de forense digital para produção de provas           | 04/2022 |
 | Consultoria em processo de desenvolvimento e inovação empresa Hardware              | 03/2022 |
